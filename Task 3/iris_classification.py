@@ -1,6 +1,3 @@
-# Iris Flower Classification using Machine Learning
-# CodSoft Data Science Internship - Task 3
-# Author: Anmol Singh
 
 # Import Libraries
 import pandas as pd
